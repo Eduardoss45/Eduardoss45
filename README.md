@@ -7,8 +7,7 @@
 - Ele/Dele
    
     <div style="display: inline_block">
-      
-        <br />
+      <br />
         <img
           align="center"
           alt="Edu-Js"
@@ -51,7 +50,6 @@
           width="40"
           src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor"
         />
-      
         <img
           align="center"
           alt="Edu-Sass"
