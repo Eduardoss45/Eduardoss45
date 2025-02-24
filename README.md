@@ -1,6 +1,6 @@
 ### Full-Stack
 
-- 👦 Como desenvolvedor full-stack freelancer, estou imerso em projetos empolgantes e desafiadores no momento.
+- 👦 Como desenvolvedor full-stack freelancer, estou avançando e atingindo minhas metas rapidamente.
 - 📚 Estou dedicando meu tempo ao aprimoramento das minhas habilidades com front-end e back-end. Sempre em busca de dominar novas tecnologias e aplicá-las em meus próximos projetos.
 - 👋 Sinta-se à vontade para entrar em contato comigo aqui: santos934510@gmail.com
 - 🗨️ Você pode me chamar de Eduardo.
@@ -57,4 +57,3 @@
           src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"  
         />
       </div>
-
