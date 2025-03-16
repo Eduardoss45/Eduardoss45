@@ -2,8 +2,7 @@
 
 - 👦 Como desenvolvedor full-stack freelancer, estou avançando e atingindo minhas metas rapidamente.
 - 📚 Estou dedicando meu tempo ao aprimoramento das minhas habilidades com front-end e back-end. Sempre em busca de dominar novas tecnologias e aplicá-las em meus próximos projetos.
-- 👋 Sinta-se à vontade para entrar em contato comigo aqui: santos934510@gmail.com
-- 🗨️ Você pode me chamar de Eduardo.
+- 👋 Sinta-se à vontade para entrar em contato comigo no linkedin: https://www.linkedin.com/in/eduardo-souza432
    
     <div style="display: inline_block">
       <br />
