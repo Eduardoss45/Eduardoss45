@@ -3,8 +3,9 @@
 > - Full Stack Developer with 4 years of experience.  
 > - My journey into programming began 4 years ago, driven by a passion for web development. Since then, I’ve consistently expanded my skill set, applying modern technologies to build efficient and scalable projects.  
 > - I am committed to advancing my career towards software engineering, aiming to grow internationally and contribute to large-scale projects.  
-> - Let’s connect on [LinkedIn](https://www.linkedin.com/in/eduardo-souza432) — I’m always open to discussing new ideas and collaborations.  
-    <div style="display: inline_block">
+> - Let’s connect on [LinkedIn](https://www.linkedin.com/in/eduardo-souza432) — I’m always open to discussing new ideas and collaborations.
+
+<div style="display: inline_block">
       <br />
         <img
           align="center"
