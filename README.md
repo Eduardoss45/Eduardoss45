@@ -1,8 +1,11 @@
-### Full-Stack
+### Full Stack Developer  
 
-- 👦 Como desenvolvedor full-stack freelancer, estou avançando e atingindo minhas metas rapidamente.
-- 📚 Estou dedicando meu tempo ao aprimoramento das minhas habilidades com front-end e back-end. Sempre em busca de dominar novas tecnologias e aplicá-las em meus próximos projetos.
-- 👋 Sinta-se à vontade para entrar em contato comigo no linkedin: https://www.linkedin.com/in/eduardo-souza432
+> - Full Stack Developer with 4 years of experience.  
+> - My journey into programming began 4 years ago, driven by a passion for web development. Since then, I’ve consistently expanded my skill set, applying modern technologies to build efficient and scalable projects.  
+> - I am committed to advancing my career towards software engineering, aiming to grow internationally and contribute to large-scale projects.  
+> - Let’s connect on [LinkedIn](https://www.linkedin.com/in/eduardo-souza432) — I’m always open to discussing new ideas and collaborations.  
+
+---
    
     <div style="display: inline_block">
       <br />
