@@ -195,6 +195,6 @@ Minha jornada na programação começou há 4 anos, movida por uma paixão pelo 
         align="left"
         alt="GitHub Stats"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoss45&locale=pt-br&layout=compact&theme=radical#gh-dark-mode-only"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoss45&locale=pt-br&theme=radical#gh-dark-mode-only"
     />
 </p>
