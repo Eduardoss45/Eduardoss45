@@ -189,12 +189,12 @@ Minha jornada na programação começou há 4 anos, movida por uma paixão pelo 
         align="left"
         alt="GitHub Stats"
         height="200"
-        src="https://github-readme-stats.vercel.app/api?username=eduardoss45&show_icons=true&locale=pt-br&include_all_commits=true&theme=radical#gh-dark-mode-only"
+        src="https://github-readme-stats.vercel.app/api?username=eduardoss45&show_icons=true&locale=pt-br&include_all_commits=true&theme=transparent#gh-dark-mode-only"
     />
     <img
         align="left"
         alt="GitHub Stats"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoss45&locale=pt-br&theme=radical#gh-dark-mode-only"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoss45&locale=pt-br&theme=transparent#gh-dark-mode-only"
     />
 </p>
