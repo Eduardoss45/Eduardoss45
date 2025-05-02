@@ -173,8 +173,6 @@ Minha jornada na programação começou há 4 anos, movida por uma paixão pelo 
 
 ### 📊 Estátisticas
 
-</br>
-
 <p>
     <img
         align="left"
