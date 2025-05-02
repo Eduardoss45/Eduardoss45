@@ -6,9 +6,7 @@ Minha jornada na programação começou há 4 anos, movida por uma paixão pelo 
 
 ### 🤖 Linguagens e Tecnologias
 
-</br>
-
-<div style="display: inline_block">
+<div style="display: inline_flex">
   <img
     align="left"
     alt="HTML"
