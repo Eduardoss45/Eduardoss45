@@ -160,6 +160,8 @@ Minha jornada na programação começou há 4 anos, movida por uma paixão pelo 
     style="padding-right: 10px;"
     src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"
   />
+
+
   <img
     align="left"
     alt="Git"
@@ -171,7 +173,9 @@ Minha jornada na programação começou há 4 anos, movida por uma paixão pelo 
   />
 </div>
 
+
 ### 📊 Estátisticas
+
 
 <p>
     <img
