@@ -10,8 +10,6 @@ Minha jornada na programação começou há 4 anos, movida por uma paixão pelo 
 
 ### 🤖 Linguagens e Tecnologias
 
-<br />
-
 <div style="display: inline_block">
   <img
     align="left"
