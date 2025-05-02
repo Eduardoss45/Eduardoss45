@@ -176,14 +176,12 @@ Minha jornada na programação começou há 4 anos, movida por uma paixão pelo 
   />
 </div>
 
-
 </br>
 </br>
-</br>
-
 
 ---
 
+</br>
 
 ### 📊 Estátisticas
 
