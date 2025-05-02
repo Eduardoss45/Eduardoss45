@@ -153,6 +153,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 />
 </div>
 
+</br>
+</br>
+
 ### 📊 Estátisticas
 
 <div style="display: flex; gap: 1rem; padding-top: 1rem;">
