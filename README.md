@@ -2,9 +2,6 @@
 
 ![banner](./assets/banner.png)
 
-</br>
-</br>
-
 Minha jornada na programação começou há 4 anos, movida por uma paixão pelo desenvolvimento web. Desde então, venho expandindo constantemente meu conjunto de habilidades, aplicando tecnologias modernas para construir projetos eficientes e escaláveis. Estou comprometido em avançar na carreira rumo à engenharia de software, com o objetivo de crescer internacionalmente e contribuir para projetos em larga escala. Vamos nos conectar no "[LinkedIn](https://www.linkedin.com/in/eduardo-souza432)" — estou sempre aberto para discutir novas ideias e colaborações.
 
 ### 🤖 Linguagens e Tecnologias
