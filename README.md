@@ -43,8 +43,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/
 align="left"
 alt="Py"
 title="Py"
-height="50"
-width="50"
+height="35"
+width="35"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />        
 <img
