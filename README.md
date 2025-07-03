@@ -62,7 +62,15 @@ title="Express"
 height="30"
 width="30"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-/>
+/>  
+<img
+align="left"
+alt="Django"
+title="Django"
+height="30"
+width="30"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>          
 <img
 align="left"
 alt="React"
