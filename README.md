@@ -113,14 +113,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-o
 />
 <img
 align="left"
-alt="Mongoose"
-title="Mongoose"
-height="35"
-width="35"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"
-/>
-<img
-align="left"
 alt="Handlebars"
 title="Handlebars"
 height="35"
@@ -188,7 +180,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-ori
 </div>
 
 </br>
----
 </br>
 
 ### 📊 Estátisticas
