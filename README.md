@@ -2,7 +2,11 @@
 
 ![banner](./assets/banner.png)
 
-Minha jornada na programação começou há 4 anos, movida por uma paixão pelo desenvolvimento web. Desde então, venho expandindo constantemente meu conjunto de habilidades, aplicando tecnologias modernas para construir projetos eficientes e escaláveis. Estou comprometido em avançar na carreira rumo à engenharia de software, com o objetivo de crescer internacionalmente e contribuir para projetos em larga escala. Vamos nos conectar no "[LinkedIn](https://www.linkedin.com/in/eduardo-souza432)" — estou sempre aberto para discutir novas ideias e colaborações.
+Comecei na programação há cerca de quatro anos, movido pela curiosidade de entender como ideias se transformam em software. Atualmente, atuo como **desenvolvedor full stack**, criando aplicações web modernas com **React.js, Node.js, TypeScript e Django**.
+
+Gosto de aprender construindo — explorando novas tecnologias, ajustando detalhes e buscando sempre unir **desempenho e boa experiência do usuário**. Meu foco é evoluir na área de **engenharia de software** e contribuir para **projetos de grande impacto**.
+
+🔗 [LinkedIn – Eduardo Souza](https://www.linkedin.com/in/eduardo-souza432)
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -29,7 +33,7 @@ alt="Js"
 title="Js"
 height="30"
 width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img
 align="left"
@@ -37,7 +41,7 @@ alt="Ts"
 title="Ts"
 height="30"
 width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />  
 <img
 align="left"
@@ -47,14 +51,14 @@ height="35"
 width="35"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />     
-<img
+<!-- <img
 align="left"
 alt="C#"
 title="C#"
 height="35"
 width="35"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
+/> -->
 <img
 align="left"
 alt="Node"
