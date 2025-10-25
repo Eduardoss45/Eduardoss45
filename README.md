@@ -41,5 +41,5 @@ Gosto de aprender construindo — explorando novas tecnologias, ajustando detalh
 
 <p align="left">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=eduardoss45&show_icons=true&locale=pt-br&theme=transparent#gh-dark-mode-only" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoss45&langs_count=4&locale=pt-br&theme=transparent#gh-dark-mode-only" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoss45&langs_count=4&exclude_repo=tcc-odisseia-godot&locale=pt-br&theme=transparent#gh-dark-mode-only" />
 </p>
