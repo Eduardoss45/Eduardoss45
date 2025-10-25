@@ -14,189 +14,33 @@ Gosto de aprender construindo — explorando novas tecnologias, ajustando detalh
 
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; gap: 1rem; padding-top: 1rem;">
-<img
-align="left"
-alt="HTML"
-title="HTML"
-height="30"
-width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-align="left"
-alt="CSS"
-title="CSS"
-height="30"
-width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-align="left"
-alt="Js"
-title="Js"
-height="30"
-width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-align="left"
-alt="Ts"
-title="Ts"
-height="30"
-width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>  
-<img
-align="left"
-alt="Python"
-title="Python"
-height="35"
-width="35"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>     
-<img
-align="left"
-alt="Node"
-title="Node"
-height="30"
-width="30"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img
-align="left"
-alt="Express"
-title="Express"
-height="30"
-width="30"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-/>  
-<img
-align="left"
-alt="Django"
-title="Django"
-height="30"
-width="30"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>          
-<img
-align="left"
-alt="React"
-title="React"
-height="30"
-width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-/>
-<img
-align="left"
-alt="Next"
-title="Next"
-height="30"
-width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-/>
-<img
-align="left"
-alt="Electron"
-title="Electron"
-height="35"
-width="35"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"
-/>
-<img
-align="left"
-alt="Mongodb"
-title="Mongodb"
-height="35"
-width="35"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-/>
-<img
-align="left"
-alt="Handlebars"
-title="Handlebars"
-height="35"
-width="35"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg"
-/>
-<img
-align="left"
-alt="MySQL"
-title="MySQL"
-height="35"
-width="35"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img
-align="left"
-alt="Sequelize"
-title="Sequelize"
-height="35"
-width="35"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg"
-/>
-<img
-align="left"
-alt="Sass"
-title="Sass"
-height="30"
-width="40"
-src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor"
-/>
-<img
-align="left"
-alt="Bootstap"
-title="Bootstap"
-height="30"
-width="40"
-src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=4c00ff"
-/>
-<img
-align="left"
-alt="Tailwindcss"
-title="Tailwindcss"
-height="30"
-width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-</br>
-</br>
-<img
-align="left"
-alt="Git"
-title="Git"
-height="30"
-width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-align="left"
-alt="Prisma"
-title="Prisma"
-height="30"
-width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
-/>
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" title="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="35" title="Electron" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="35" title="Sequelize" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" title="SASS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" title="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="35" title="Prisma" />
+</p>
 
-</br>
-</br>
+---
 
-### 📊 Estátisticas
+### 📊 Estatísticas
 
-<div style="display: flex; gap: 1rem; padding-top: 1rem;">
-<img
-align="left"
-alt="GitHub Stats"
-height="200"
-styles="margin-left: 20px;"
-src="https://github-readme-stats.vercel.app/api?username=eduardoss45&show_icons=true&locale=pt-br&theme=transparent#gh-dark-mode-only"
-/>
-
-<img
-align="left"
-alt="GitHub Stats"
-height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoss45&langs_count=4&locale=pt-br&theme=transparent#gh-dark-mode-only"
-/>  
-</div>
+<p align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=eduardoss45&show_icons=true&locale=pt-br&theme=transparent#gh-dark-mode-only" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoss45&langs_count=4&locale=pt-br&theme=transparent#gh-dark-mode-only" />
+</p>
