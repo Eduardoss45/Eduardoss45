@@ -22,9 +22,11 @@ Gosto de aprender construindo — explorando novas tecnologias, ajustando detalh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="Node.js" />
   <picture>
-  <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-dark-mode-only" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg#gh-light-mode-only" height="35" title="Express.js" />
-  </picture>
+  <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+  height="35"
+  title="Express.js"
+  style="background-color:#ffffff; padding:4px; border-radius:25px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" title="Next.js" />
