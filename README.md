@@ -2,11 +2,15 @@
 
 ![banner](./assets/banner.png)
 
+---
+
 Comecei na programação há cerca de quatro anos, movido pela curiosidade de entender como ideias se transformam em software. Atualmente, atuo como **desenvolvedor full stack**, criando aplicações web modernas com **React.js, Node.js, TypeScript e Django**.
 
 Gosto de aprender construindo — explorando novas tecnologias, ajustando detalhes e buscando sempre unir **desempenho e boa experiência do usuário**. Meu foco é evoluir na área de **engenharia de software** e contribuir para **projetos de grande impacto**.
 
 🔗 [LinkedIn – Eduardo Souza](https://www.linkedin.com/in/eduardo-souza432)
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -51,14 +55,6 @@ height="35"
 width="35"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />     
-<!-- <img
-align="left"
-alt="C#"
-title="C#"
-height="35"
-width="35"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/> -->
 <img
 align="left"
 alt="Node"
@@ -192,6 +188,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-ori
 </div>
 
 </br>
+---
 </br>
 
 ### 📊 Estátisticas
@@ -204,6 +201,7 @@ height="200"
 styles="margin-left: 20px;"
 src="https://github-readme-stats.vercel.app/api?username=eduardoss45&show_icons=true&locale=pt-br&theme=transparent#gh-dark-mode-only"
 />
+
 <img
 align="left"
 alt="GitHub Stats"
