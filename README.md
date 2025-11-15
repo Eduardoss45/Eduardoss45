@@ -35,6 +35,7 @@ Gosto de aprender construindo — explorando novas tecnologias, ajustando detalh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="35" title="Prisma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="35" title="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="35" title="Selenium" />
 </p>
 
 ---
