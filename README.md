@@ -4,10 +4,9 @@
 
 ---
 
-Comecei na programação há cerca de quatro anos, movido pela curiosidade de entender como ideias se transformam em software. Atualmente, atuo como **desenvolvedor full stack**, criando aplicações web modernas com **React.js, Node.js, TypeScript e Django**.
+Comecei a estudar programação há cerca de quatro anos, motivado por entender como ideias viram software. Tenho cerca de dois anos de experiência prática como desenvolvedor full stack, criando aplicações web com foco em organização, clareza e boa arquitetura.
 
-Gosto de aprender construindo — explorando novas tecnologias, ajustando detalhes e buscando sempre unir **desempenho e boa experiência do usuário**. Meu foco é evoluir na área de **engenharia de software** e contribuir para **projetos de grande impacto**.
-
+Aprendo melhor construindo: explorando tecnologias na prática, ajustando implementações e resolvendo problemas de forma objetiva. Quero evoluir na engenharia de software aplicando minha experiência full stack em projetos que exijam integração eficiente entre frontend, backend e infraestrutura.
 🔗 [LinkedIn – Eduardo Souza](https://www.linkedin.com/in/eduardo-souza432)
 
 ---
