@@ -4,7 +4,7 @@
 
 ---
 
-Comecei a estudar programação há cerca de quatro anos, motivado por entender como ideias viram software. Tenho cerca de dois anos de experiência prática como desenvolvedor full stack, criando aplicações web com foco em organização, clareza e boa arquitetura.
+Comecei a estudar programação há cerca de cinco anos, motivado por entender como ideias viram software. Tenho cerca de três anos de experiência prática como desenvolvedor full stack, criando aplicações web com foco em organização, clareza e boa arquitetura.
 
 Aprendo melhor construindo: explorando tecnologias na prática, ajustando implementações e resolvendo problemas de forma objetiva. Quero evoluir na engenharia de software aplicando minha experiência full stack em projetos que exijam integração eficiente entre frontend, backend e infraestrutura.
 
