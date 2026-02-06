@@ -67,6 +67,6 @@ Trabalho de forma colaborativa, contribuindo em decisões técnicas, documentaç
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=eduardoss45&show_icons=true&locale=pt-br&theme=transparent#gh-dark-mode-only" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoss45&langs_count=4&exclude_repo=landing-page-battlefield2042,insta-clone,apple-clone,qr-code-generator,weather-panel,grp-3&hide=CSS,HTML,SCSS,GDscript&locale=pt-br&theme=transparent#gh-dark-mode-only" />
+ <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=eduardoss45&show_icons=true&locale=pt-br&theme=transparent" />
+ <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduardoss45&locale=pt-br&theme=transparent" />
 </p>
