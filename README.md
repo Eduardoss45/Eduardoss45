@@ -68,5 +68,5 @@ Trabalho de forma colaborativa, contribuindo em decisões técnicas, documentaç
 
 <p align="left">
  <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=eduardoss45&show_icons=true&locale=pt-br&theme=transparent" />
- <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduardoss45&locale=pt-br&theme=transparent" />
+ <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduardoss45&locale=pt-br&theme=transparent&langs_count=4" />
 </p>
