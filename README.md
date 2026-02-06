@@ -30,12 +30,18 @@ Trabalho de forma colaborativa, contribuindo em decisões técnicas, documentaç
 
 ---
 
-### 🧠 Backend (ajustado)
+### 🧠 Backend
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="35" title="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" title="Express" />
+  <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+  height="35" 
+  alt="Express" 
+  title="Express" 
+  style="background-color:white; padding:5px; border-radius:50%;"
+/>
 </p>
 
 ---
