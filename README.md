@@ -14,8 +14,6 @@ Trabalho de forma colaborativa, contribuindo em decisões técnicas, documentaç
 
 ---
 
-## 🤖 Linguagens e Tecnologias
-
 ### 🎨 Frontend
 
 <p align="left">
