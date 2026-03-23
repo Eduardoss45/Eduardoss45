@@ -4,11 +4,13 @@
 
 ---
 
-Tenho cerca de três anos de experiência prática como desenvolvedor full stack, atuando em projetos acadêmicos, freelances independentes e iniciativas próprias. Desenvolvo aplicações web completas, desde APIs REST integradas a bancos de dados SQL e NoSQL até interfaces modernas orientadas à manutenção e escalabilidade.
+Tenho cerca de três anos de experiência prática como desenvolvedor full stack, atuando na construção e evolução de aplicações web completas, desde APIs REST integradas a bancos de dados SQL e NoSQL até interfaces modernas orientadas à escalabilidade e manutenção.
 
-Minha atuação envolve criação e evolução de sistemas do zero, manutenção contínua de aplicações próprias e de parceiros, correção de bugs, monitoramento, testes e deploys, sempre com foco em performance, clareza arquitetural e manutenibilidade do código.
+Minha atuação envolve desenvolvimento de sistemas do zero, manutenção contínua, correção de falhas, testes e deploys, com foco em consistência, desempenho e clareza arquitetural.
 
-Trabalho de forma colaborativa, contribuindo em decisões técnicas, documentação e code reviews. Também mantenho projetos próprios, como QuickHost, TaskManager e LinkSwift, que servem como laboratório prático para aplicação de stacks modernas e boas práticas de engenharia de software, disponíveis para avaliação no meu GitHub.
+Ao longo desse período, trabalhei com conceitos aplicados de backend como mensageria, processamento assíncrono, auditoria, controle de concorrência e comunicação em tempo real, implementando soluções baseadas em padrões utilizados em sistemas distribuídos.
+
+Desenvolvo e mantenho aplicações completas em TypeScript, como QuickHost, TaskManager e LinkSwift, além de projetos em outras stacks, como o Doc Flow (Python/Flask, processamento assíncrono de documentos) e o Finances API (Java/Spring Boot, com foco em consistência transacional e segurança), aplicando na prática decisões arquiteturais, integração entre serviços e estratégias de observabilidade e resiliência.
 
 🔗 [LinkedIn – Eduardo Souza](https://www.linkedin.com/in/eduardo-souza432)
 
