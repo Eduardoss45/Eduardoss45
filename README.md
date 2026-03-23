@@ -10,7 +10,7 @@ Minha atuação envolve desenvolvimento de sistemas do zero, manutenção contí
 
 Ao longo desse período, trabalhei com conceitos aplicados de backend como mensageria, processamento assíncrono, auditoria, controle de concorrência e comunicação em tempo real, implementando soluções baseadas em padrões utilizados em sistemas distribuídos.
 
-Desenvolvo e mantenho aplicações completas em TypeScript, como QuickHost, TaskManager e LinkSwift, além de projetos em outras stacks, como o Doc Flow (Python/Flask, processamento assíncrono de documentos) e o Finances API (Java/Spring Boot, com foco em consistência transacional e segurança), aplicando na prática decisões arquiteturais, integração entre serviços e estratégias de observabilidade e resiliência.
+Desenvolvo e mantenho aplicações completas em TypeScript, como QuickHost, Task Manager e LinkSwift, além de projetos em outras stacks, como o Doc Flow (Python/Flask, processamento assíncrono de documentos) e o Finances API (Java/Spring Boot, com foco em consistência transacional e segurança), aplicando na prática decisões arquiteturais, integração entre serviços e estratégias de observabilidade e resiliência.
 
 🔗 [LinkedIn – Eduardo Souza](https://www.linkedin.com/in/eduardo-souza432)
 
