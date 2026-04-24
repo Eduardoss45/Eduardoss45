@@ -80,5 +80,5 @@ Desenvolvo e mantenho aplicações completas em TypeScript, como QuickHost, Task
 
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=eduardoss45&show_icons=true&locale=pt-br&theme=transparent&hide=JavaScript,SCSS,CSS" />
-  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduardoss45&locale=pt-br&theme=transparent&langs_count=4&hide=JavaScript,SCSS,CSS" />
+  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduardoss45&locale=pt-br&theme=transparent&langs_count=4&hide=JavaScript,SCSS,CSS,GDScript,C%2B%2B" />
 </p>
