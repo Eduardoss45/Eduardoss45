@@ -31,6 +31,7 @@ Atualmente desenvolvo e mantenho aplicações em TypeScript, com destaque para o
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="35" title="Angular" />
 </p>
 
 ---
