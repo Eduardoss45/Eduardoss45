@@ -4,13 +4,17 @@
 
 ---
 
-Desenvolvedor fullstack com cerca de três anos de experiência prática, com foco em backend e construção de APIs escaláveis. Atuo no desenvolvimento de sistemas distribuídos, mensageria e processamento assíncrono, aplicando práticas voltadas à consistência, resiliência e clareza arquitetural.
+Desenvolvedor Backend com experiência em desenvolvimento Full Stack, atuando na concepção, desenvolvimento e evolução de APIs, microsserviços e aplicações web escaláveis. Trabalho principalmente com TypeScript, Java e Python, utilizando Node.js como principal ecossistema para desenvolvimento backend.
 
-Tenho experiência no desenvolvimento de aplicações completas, desde a modelagem e implementação de APIs REST e integrações com bancos de dados SQL e NoSQL até a construção de interfaces modernas e sustentáveis. Minha atuação inclui desenvolvimento de sistemas do zero, manutenção contínua, correção de falhas, testes e deploys.
+Tenho experiência no planejamento de arquitetura, modelagem de domínio, implementação de regras de negócio, integração entre serviços e desenvolvimento de APIs REST. Atuo desde a definição da estrutura da aplicação até testes, deploy, monitoramento, manutenção e evolução contínua de sistemas, utilizando frameworks como NestJS, Express, AdonisJS, Spring Boot e Flask.
 
-No backend, trabalho com conceitos como mensageria (RabbitMQ e Kafka), comunicação síncrona entre serviços com gRPC, controle de concorrência, auditoria e comunicação em tempo real, utilizando padrões comuns em arquiteturas orientadas a eventos.
+Sou responsável pela implementação de mecanismos de autenticação e autorização, utilizando JWT, OAuth, OTP, hashing seguro de senhas e controle de acesso baseado em papéis (RBAC). Também desenvolvo soluções voltadas à segurança, integração entre aplicações e padronização de fluxos de acesso.
 
-Atualmente desenvolvo e mantenho aplicações em TypeScript, com destaque para o **QuickHost** e o **Task Manager**, além de projetos em outras stacks que reforçam minha base técnica, como o **Finances API** (Java/Spring Boot, com foco em consistência transacional e segurança) e o **Doc Flow** (Python/Flask, voltado ao processamento assíncrono de documentos).
+No desenvolvimento de aplicações, trabalho com bancos de dados relacionais e NoSQL, estratégias de cache com Redis, mensageria, comunicação síncrona e assíncrona, além de integração entre serviços utilizando RabbitMQ, Kafka, gRPC e WebSockets quando necessários. Também utilizo Docker, Git, CI/CD, serviços da AWS e ORMs como Prisma e TypeORM para construção e operação das aplicações.
+
+Atualmente desenvolvo um SaaS próprio para processamento e gerenciamento de documentos, sendo responsável por toda a arquitetura da plataforma, definição de requisitos técnicos, modelagem de dados, implementação de novas funcionalidades, integração com serviços externos, monitoramento, otimização de desempenho e evolução contínua do produto.
+
+Busco oportunidades para atuar no desenvolvimento de produtos escaláveis, contribuindo com decisões técnicas, arquitetura de software, qualidade de código e evolução contínua das aplicações.
 
 🔗 [LinkedIn – Eduardo Souza](https://www.linkedin.com/in/eduardo-souza432)
 
