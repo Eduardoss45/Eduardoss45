@@ -1,6 +1,6 @@
 # 🧑‍💻 Sobre mim
 
-![banner](./assets/banner.png)
+![banner](banner.png)
 
 ---
 
