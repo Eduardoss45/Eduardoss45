@@ -4,19 +4,40 @@
 
 ---
 
-Sou Desenvolvedor Backend com experiência em desenvolvimento Full Stack, especializado na concepção, construção e evolução de APIs, microsserviços e aplicações web escaláveis. Trabalho principalmente com TypeScript, Java e Python, tendo o ecossistema Node.js como principal base para soluções backend.
+Sou Desenvolvedor Backend com experiência em engenharia Full Stack, especializado na concepção, construção e evolução de APIs, microsserviços e aplicações web escaláveis. Trabalho principalmente com **TypeScript, Java e Python**, tendo o ecossistema Node.js como principal base para soluções de alta disponibilidade.
 
-Minha experiência abrange arquitetura de software, modelagem de domínio, implementação de regras de negócio, APIs REST, comunicação entre serviços, testes, deploy, monitoramento e manutenção contínua. Utilizo frameworks como NestJS, Express, AdonisJS, Spring Boot e Flask, selecionando a tecnologia mais adequada para cada contexto.
+### ⚙️ Engenharia & Core Competencies:
+* **Arquitetura & Resiliência:** Modelagem de domínio, sistemas orientados a eventos, comunicação síncrona/assíncrona e padrões de tolerância a falhas utilizando **RabbitMQ, Kafka, gRPC e WebSockets**.
+* **Segurança & Acesso:** Mecanismos robustos de autenticação e autorização via JWT, OAuth, OTP, hashing de senhas e controle de acesso baseado em papéis (**RBAC**).
+* **Infraestrutura & Persistência:** Modelagem avançada em PostgreSQL, MongoDB e Redis, conteinização com **Docker**, pipelines de CI/CD e serviços cloud na AWS.
 
-Também projeto e implemento mecanismos de autenticação e autorização utilizando JWT, OAuth, OTP, hashing seguro de senhas e controle de acesso baseado em papéis (RBAC). Além disso, desenvolvo soluções voltadas à segurança, integração entre aplicações e padronização dos fluxos de autenticação.
+Atualmente, desenvolvo dois **SaaS próprios**, sendo responsável por todo o ciclo de vida dos produtos, desde a definição da arquitetura até a preparação para produção.
 
-Possuo experiência com PostgreSQL, MongoDB, Redis, Docker, Git, CI/CD, serviços da AWS e ORMs como Prisma e TypeORM. Na arquitetura das aplicações, aplico estratégias de cache, mensageria, comunicação síncrona e assíncrona e integração entre serviços por meio de RabbitMQ, Kafka, gRPC e WebSockets, conforme os requisitos de cada solução.
+Busco oportunidades para integrar equipes de engenharia de alta performance, contribuindo ativamente com decisões de arquitetura de software, qualidade de código e evolução de produtos escaláveis.
 
-Atualmente mantenho um SaaS próprio para processamento e gerenciamento de documentos, sendo responsável pela definição da arquitetura, levantamento de requisitos técnicos, modelagem de dados, implementação de funcionalidades, integração com serviços externos, monitoramento, otimização de desempenho e evolução contínua da plataforma.
+---
 
-Busco oportunidades para integrar equipes de engenharia, contribuindo com decisões técnicas, arquitetura de software, qualidade de código e desenvolvimento de produtos escaláveis, seguros e de alta disponibilidade.
+## 🎯 Portfólio & Ecossistema de Projetos
 
-🔗 [LinkedIn – Eduardo Souza](https://www.linkedin.com/in/eduardo-souza432)
+Se você é um **Tech Lead** ou **Recrutador**, veja abaixo como divido minhas competências práticas:
+
+### 🚀 Produtos & SaaS
+* **[Doc Flow](https://github.com/Eduardoss45/doc-flow):** Motor assíncrono e distribuído de processamento e conversão de documentos. Arquitetura modular construída com **Next.js, Flask/Python, RabbitMQ, Celery e WebSockets (Redis + Socket.IO)** para garantir controle estrito de recursos e isolamento de carga.
+* **[LinkSwift](https://github.com/Eduardoss45/linkswift):** Plataforma de encurtamento de links focada em desempenho, persistência de dados e evolução contínua para ambiente produtivo. *(Em evolução constante para deploy produtivo)*.
+
+### 🏭 Engenharia Avançada & Alta Carga
+* **[Order Processing Patterns](https://github.com/Eduardoss45/order-processing-patterns):** Projeto focado estritamente em padrões arquiteturais de backend para resiliência no processamento de fluxos complexos.
+* **[gRPC Playground](https://github.com/Eduardoss45/grpc-playground):** Laboratório de microsserviços focado em comunicação de baixa latência. *(Próximo passo: implementação de testes de estresse e alta carga massiva utilizando **k6** para comparação de throughput vs REST/WebSockets)*.
+
+### 🛠️ Desafios & Testes Técnicos Resolvidos
+* **[Gateway Failover API](https://github.com/Eduardoss45/gateway-failover-api):** Implementação de microsserviço com inteligência de failover para garantir a alternância resiliente entre gateways caso o provedor principal sofra instabilidade.
+* **[Task Manager](https://github.com/Eduardoss45/task-manager):** Solução completa focada em organização de domínio, regras de negócio limpas e cobertura de testes.
+
+---
+
+📬 **Vamos nos conectar?**
+* **LinkedIn:** [Eduardo Souza](https://www.linkedin.com/in/eduardo-souza432)
+* Se quiser discutir sobre System Design, Mensageria ou a arquitetura do meu SaaS, sinta-se à vontade para abrir uma Issue ou me chamar na rede social!
 
 ---
 
