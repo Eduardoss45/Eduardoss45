@@ -27,7 +27,7 @@ Se você é um **Tech Lead** ou **Recrutador**, veja abaixo como divido minhas c
 
 ### 🏭 Engenharia Avançada & Alta Carga
 * **[Order Processing Patterns](https://github.com/Eduardoss45/order-processing-patterns):** Projeto focado estritamente em padrões arquiteturais de backend para resiliência no processamento de fluxos complexos.
-* **[gRPC Playground](https://github.com/Eduardoss45/grpc-playground):** Laboratório de microsserviços focado em comunicação de baixa latência. *(Próximo passo: implementação de testes de estresse e alta carga massiva utilizando **k6** para comparação de throughput vs REST/WebSockets)*.
+* **[gRPC Playground](https://github.com/Eduardoss45/grpc-playground):** Laboratório de microsserviços focado em comunicação de baixa latência.
 
 ### 🛠️ Desafios & Testes Técnicos Resolvidos
 * **[Gateway Failover API](https://github.com/Eduardoss45/gateway-failover-api):** Implementação de microsserviço com inteligência de failover para garantir a alternância resiliente entre gateways caso o provedor principal sofra instabilidade.
