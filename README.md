@@ -4,7 +4,7 @@
 
 ---
 
-Sou Desenvolvedor Backend com experiência em engenharia Full Stack, especializado na concepção, construção e evolução de APIs, microsserviços e aplicações web escaláveis. Trabalho principalmente com **TypeScript, Java e Python**, tendo o ecossistema Node.js como principal base para soluções de alta disponibilidade.
+Sou Desenvolvedor Backend especializado na construção e evolução de APIs, microsserviços e aplicações web escaláveis. Trabalho principalmente com **TypeScript, Java e Python**, tendo o ecossistema Node.js como principal base para soluções de alta disponibilidade.
 
 ### ⚙️ Engenharia & Core Competencies:
 * **Arquitetura & Resiliência:** Modelagem de domínio, sistemas orientados a eventos, comunicação síncrona/assíncrona e padrões de tolerância a falhas utilizando **RabbitMQ, Kafka, gRPC e WebSockets**.
