@@ -30,8 +30,8 @@ Se você é um **Tech Lead** ou **Recrutador**, veja abaixo como divido minhas c
 * **[gRPC Playground](https://github.com/Eduardoss45/grpc-playground):** Laboratório de arquitetura backend focado em comunicação de baixa latência, estratégias de cache e engenharia de performance.
 
 ### 🛠️ Desafios & Testes Técnicos Resolvidos
-* **[Gateway Failover API](https://github.com/Eduardoss45/gateway-failover-api):** Implementação de microsserviço com inteligência de failover para garantir a alternância resiliente entre gateways caso o provedor principal sofra instabilidade.
-* **[Task Manager](https://github.com/Eduardoss45/task-manager):** Solução completa focada em organização de domínio, regras de negócio limpas e cobertura de testes.
+* **[Gateway Failover API](https://github.com/Eduardoss45/gateway-failover-api):** Solução desenvolvida para um desafio técnico **BeTalent de nível Pleno/Sênior**, simulando um sistema de pagamentos multi-gateway. Implementa processamento de compras com **priorização configurável de provedores e fallback automático em caso de falha**, além de persistência de transações, reembolsos, RBAC e testes automatizados com **AdonisJS, MySQL, Docker e Japa**.
+* **[Task Manager](https://github.com/Eduardoss45/task-manager):** Sistema colaborativo de gestão de tarefas desenvolvido para um **desafio técnico de vaga Full Stack Júnior na Jungle Gaming**. Foi meu primeiro projeto baseado em **arquitetura de microsserviços**, com **NestJS, RabbitMQ, PostgreSQL, Docker e WebSockets**, implementando API Gateway, serviços independentes de autenticação, tarefas e notificações, comunicação assíncrona por eventos e notificações em tempo real. Este projeto consolidou minha base prática em **arquitetura distribuída, mensageria e separação de responsabilidades**.
 
 ---
 
