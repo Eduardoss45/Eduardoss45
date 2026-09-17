@@ -26,8 +26,8 @@ Se você é um **Tech Lead** ou **Recrutador**, veja abaixo como divido minhas c
 * **[LinkSwift](https://github.com/Eduardoss45/linkswift):** Plataforma de encurtamento de links focada em desempenho, persistência de dados e evolução contínua para ambiente produtivo. *(Em evolução constante para deploy produtivo)*.
 
 ### 🏭 Engenharia Avançada & Alta Carga
-* **[Order Processing Patterns](https://github.com/Eduardoss45/order-processing-patterns):** Projeto focado estritamente em padrões arquiteturais de backend para resiliência no processamento de fluxos complexos.
-* **[gRPC Playground](https://github.com/Eduardoss45/grpc-playground):** Laboratório de arquitetura backend focado em comunicação de baixa latência, estratégias de cache e engenharia de performance.
+* **[Order Processing Patterns](https://github.com/Eduardoss45/order-processing-patterns):** Implementação comparativa de arquiteturas de processamento de pedidos: orquestração centralizada com filas (RabbitMQ) versus eventos distribuídos com streams (Kafka), destacando diferenças de modelo mental, desacoplamento e comportamento sob falhas.
+* **[gRPC Playground](https://github.com/Eduardoss45/grpc-playground):** Laboratório de performance com gRPC: comparação do impacto do padrão Cache Aside (PostgreSQL + Redis) em latência e throughput, com benchmark reproduzível usando k6.
 
 ### 🛠️ Desafios & Testes Técnicos Resolvidos
 * **[Gateway Failover API](https://github.com/Eduardoss45/gateway-failover-api):** Solução desenvolvida para um desafio técnico **BeTalent de nível Pleno/Sênior**, simulando um sistema de pagamentos multi-gateway. Implementa processamento de compras com **priorização configurável de provedores e fallback automático em caso de falha**, além de persistência de transações, reembolsos, RBAC e testes automatizados com **AdonisJS, MySQL, Docker e Japa**.
