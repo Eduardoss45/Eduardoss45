@@ -1,106 +1,65 @@
-# 🧑‍💻 Sobre mim
+# 🧑‍💻 Eduardo Souza
 
 ![banner](./assets/banner.png)
 
----
+**Backend Engineer** | TypeScript • Java  
+Desenvolvimento de APIs, microsserviços e sistemas escaláveis.
 
-Sou Desenvolvedor Backend especializado na construção e evolução de APIs, microsserviços e aplicações web escaláveis. Trabalho principalmente com **TypeScript, Java e Python**, tendo o ecossistema Node.js como principal base para soluções de alta disponibilidade.
-
-### ⚙️ Engenharia & Core Competencies:
-* **Arquitetura & Resiliência:** Modelagem de domínio, sistemas orientados a eventos, comunicação síncrona/assíncrona e padrões de tolerância a falhas utilizando **RabbitMQ, Kafka, gRPC e WebSockets**.
-* **Segurança & Acesso:** Mecanismos robustos de autenticação e autorização via JWT, OAuth, OTP, hashing de senhas e controle de acesso baseado em papéis (**RBAC**).
-* **Infraestrutura & Persistência:** Modelagem avançada em PostgreSQL, MongoDB e Redis, conteinização com **Docker**, pipelines de CI/CD e serviços cloud na AWS.
-
-Atualmente, desenvolvo dois **SaaS próprios**, sendo responsável por todo o ciclo de vida dos produtos, desde a definição da arquitetura até a preparação para produção.
-
-Busco oportunidades para integrar equipes de engenharia de alta performance, contribuindo ativamente com decisões de arquitetura de software, qualidade de código e evolução de produtos escaláveis.
+Atuo na construção de aplicações backend com foco em desempenho, organização de código e arquitetura bem definida.  
+Atualmente desenvolvo dois produtos próprios (SaaS) e busco oportunidades em times de engenharia.
 
 ---
 
-## 🎯 Portfólio & Ecossistema de Projetos
+### Principais competências
 
-Se você é um **Tech Lead** ou **Recrutador**, veja abaixo como divido minhas competências práticas:
-
-### 🚀 Produtos & SaaS
-* **[Doc Flow](https://github.com/Eduardoss45/doc-flow):** Motor assíncrono e distribuído de processamento e conversão de documentos. Arquitetura modular construída com **Next.js, Flask/Python, RabbitMQ, Celery e WebSockets (Redis + Socket.IO)** para garantir controle estrito de recursos e isolamento de carga.
-* **[LinkSwift](https://github.com/Eduardoss45/linkswift):** Plataforma de encurtamento de links focada em desempenho, persistência de dados e evolução contínua para ambiente produtivo. *(Em evolução constante para deploy produtivo)*.
-
-### 🏭 Engenharia Avançada & Alta Carga
-* **[Order Processing Patterns](https://github.com/Eduardoss45/order-processing-patterns):** Implementação comparativa de arquiteturas de processamento de pedidos: orquestração centralizada com filas (RabbitMQ) versus eventos distribuídos com streams (Kafka), destacando diferenças de modelo mental, desacoplamento e comportamento sob falhas.
-* **[gRPC Playground](https://github.com/Eduardoss45/grpc-playground):** Laboratório de performance com gRPC: comparação do impacto do padrão Cache Aside (PostgreSQL + Redis) em latência e throughput, com benchmark reproduzível usando k6.
-
-### 🛠️ Desafios & Testes Técnicos Resolvidos
-* **[Gateway Failover API](https://github.com/Eduardoss45/gateway-failover-api):** Solução desenvolvida para um desafio técnico **BeTalent de nível Pleno/Sênior**, simulando um sistema de pagamentos multi-gateway. Implementa processamento de compras com **priorização configurável de provedores e fallback automático em caso de falha**, além de persistência de transações, reembolsos, RBAC e testes automatizados com **AdonisJS, MySQL, Docker e Japa**.
-* **[Task Manager](https://github.com/Eduardoss45/task-manager):** Sistema colaborativo de gestão de tarefas desenvolvido para um **desafio técnico de vaga Full Stack Júnior na Jungle Gaming**. Foi meu primeiro projeto baseado em **arquitetura de microsserviços**, com **NestJS, RabbitMQ, PostgreSQL, Docker e WebSockets**, implementando API Gateway, serviços independentes de autenticação, tarefas e notificações, comunicação assíncrona por eventos e notificações em tempo real. Este projeto consolidou minha base prática em **arquitetura distribuída, mensageria e separação de responsabilidades**.
+- Desenvolvimento de APIs e microsserviços
+- Comunicação entre sistemas (filas, eventos e tempo real)
+- Banco de dados e estratégias de cache
+- Containerização e preparação para produção
 
 ---
 
-📬 **Vamos nos conectar?**
-* **LinkedIn:** [Eduardo Souza](https://www.linkedin.com/in/eduardo-souza432)
-* Se quiser discutir sobre System Design, Mensageria ou a arquitetura do meu SaaS, sinta-se à vontade para abrir uma Issue ou me chamar na rede social!
+## Portfólio
+
+### Produtos & SaaS
+
+- **[Doc Flow](https://github.com/Eduardoss45/doc-flow)**  
+  Sistema de processamento e conversão assíncrona de documentos.  
+  Arquitetura modular com filas, workers e notificações em tempo real.  
+  Em evolução para ambiente produtivo.
+
+- **[LinkSwift](https://github.com/Eduardoss45/linkswift)**  
+  Plataforma de encurtamento de links com controle de acesso, segurança e métricas.  
+  Desenvolvida com foco em desempenho e preparação para produção.  
+  *(Em evolução constante)*
+
+### Projetos de Engenharia
+
+- **[Order Processing Patterns](https://github.com/Eduardoss45/order-processing-patterns)**  
+  Comparação entre duas formas de processar pedidos:  
+  uma com filas (orquestração centralizada) e outra com eventos distribuídos.  
+  Foco em entender diferenças de arquitetura, desacoplamento e comportamento em caso de falhas.
+
+- **[gRPC Playground](https://github.com/Eduardoss45/grpc-playground)**  
+  Estudo de performance com gRPC e estratégia de cache.  
+  Inclui benchmark comparando o uso de banco de dados com e sem cache, medindo ganhos reais de velocidade e capacidade de resposta.
+
+### Desafios Técnicos
+
+- **[Gateway Failover API](https://github.com/Eduardoss45/gateway-failover-api)**  
+  Desafio técnico de nível Pleno/Sênior (BeTalent).  
+  Sistema de pagamentos com múltiplos gateways, priorização automática e fallback em caso de falha.
+
+- **[Task Manager](https://github.com/Eduardoss45/task-manager)**  
+  Desafio técnico Full Stack Júnior (Jungle Gaming).  
+  Sistema de gestão de tarefas com arquitetura de microsserviços, comunicação assíncrona e notificações em tempo real.  
+  Foi meu primeiro projeto com essa abordagem.
 
 ---
 
-### 💻 Languages
+### Contato
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" />
-</p>
+- LinkedIn → [Eduardo Souza](https://www.linkedin.com/in/eduardo-souza432)  
+- WhatsApp → [+55 16 99772-4259](https://wa.me/5516997724259)  
 
----
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" title="Angular" />
-</p>
-
----
-
-### 🧠 Backend
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" title="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" title="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="30" title="AdonisJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" title="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="30" title="Flask" />        
-</p>
-
----
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="30" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="30" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="30" title="Firebase" />
-</p>
-
----
-
-### 🛠️ Backend & Infra
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" title="RabbitMQ" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" title="Kafka" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" title="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" title="Socket.IO" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" height="30" title="gRPC" />
-</p>
-
----
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=eduardoss45&show_icons=true&locale=pt-br&theme=transparent&hide=JavaScript,SCSS,CSS" />
-  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduardoss45&locale=pt-br&theme=transparent&langs_count=4&hide=JavaScript,SCSS,CSS,GDScript,C%2B%2B" />
-</p>
+Aberto a oportunidades e conversas sobre desenvolvimento backend e arquitetura de software.
