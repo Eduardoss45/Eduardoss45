@@ -1,21 +1,27 @@
 # 🧑‍💻 Eduardo Souza
-
 ![banner](./assets/banner.png)
 
 **Backend Engineer** | TypeScript • Java  
-Desenvolvimento de APIs, microsserviços e sistemas escaláveis.
+APIs, microsserviços e sistemas escaláveis.
 
-Atuo na construção de aplicações backend com foco em desempenho, organização de código e arquitetura bem definida.  
-Atualmente desenvolvo dois produtos próprios (SaaS) e busco oportunidades em times de engenharia.
+Construo aplicações backend com foco em desempenho, arquitetura bem definida e código organizado.  
+Atualmente desenvolvo dois produtos próprios (SaaS).
 
 ---
 
-### Principais competências
+### Stack principal
 
-- Desenvolvimento de APIs e microsserviços
-- Comunicação entre sistemas (filas, eventos e tempo real)
-- Banco de dados e estratégias de cache
-- Containerização e preparação para produção
+**Backend**
+- TypeScript (NestJS, Express, AdonisJS) e Java (Spring Boot)
+- APIs REST, microsserviços e gRPC
+- Mensageria: RabbitMQ e Kafka
+- Cache: Redis
+- Bancos: PostgreSQL e MySQL (Prisma / TypeORM)
+- Docker e preparação para produção
+
+**Também tenho experiência com**  
+- Frontend (React, Next.js)  
+- Python (scripts de automação e o Doc Flow)
 
 ---
 
@@ -26,40 +32,39 @@ Atualmente desenvolvo dois produtos próprios (SaaS) e busco oportunidades em ti
 - **[Doc Flow](https://github.com/Eduardoss45/doc-flow)**  
   Sistema de processamento e conversão assíncrona de documentos.  
   Arquitetura modular com filas, workers e notificações em tempo real.  
-  Em evolução para ambiente produtivo.
+  (Backend em Python/Flask + workers)
 
 - **[LinkSwift](https://github.com/Eduardoss45/linkswift)**  
   Plataforma de encurtamento de links com controle de acesso, segurança e métricas.  
-  Desenvolvida com foco em desempenho e preparação para produção.  
-  *(Em evolução constante)*
+  Backend em Express + TypeScript, Prisma e Redis.  
+  Foco em desempenho e preparação para produção.
 
 ### Projetos de Engenharia
 
 - **[Order Processing Patterns](https://github.com/Eduardoss45/order-processing-patterns)**  
-  Comparação entre duas formas de processar pedidos:  
-  uma com filas (orquestração centralizada) e outra com eventos distribuídos.  
-  Foco em entender diferenças de arquitetura, desacoplamento e comportamento em caso de falhas.
+  Comparação entre duas abordagens de processamento de pedidos:  
+  orquestração centralizada com filas (RabbitMQ) versus eventos distribuídos (Kafka).  
+  Análise de desacoplamento, resiliência e comportamento em falhas.
 
 - **[gRPC Playground](https://github.com/Eduardoss45/grpc-playground)**  
-  Estudo de performance com gRPC e estratégia de cache.  
-  Inclui benchmark comparando o uso de banco de dados com e sem cache, medindo ganhos reais de velocidade e capacidade de resposta.
+  Estudo de performance com gRPC + estratégia de cache (Cache Aside).  
+  Benchmark com ~100k usuários comparando PostgreSQL puro vs PostgreSQL + Redis  
+  (ganho de ~3,1× no throughput e redução de ~67% na latência média).
 
 ### Desafios Técnicos
 
 - **[Gateway Failover API](https://github.com/Eduardoss45/gateway-failover-api)**  
-  Desafio técnico de nível Pleno/Sênior (BeTalent).  
-  Sistema de pagamentos com múltiplos gateways, priorização automática e fallback em caso de falha.
+  Desafio técnico nível Pleno/Sênior (BeTalent).  
+  Sistema de pagamentos com múltiplos gateways, priorização automática e fallback em caso de falha.  
+  Desenvolvido com AdonisJS 7 + MySQL.
 
 - **[Task Manager](https://github.com/Eduardoss45/task-manager)**  
   Desafio técnico Full Stack Júnior (Jungle Gaming).  
-  Sistema de gestão de tarefas com arquitetura de microsserviços, comunicação assíncrona e notificações em tempo real.  
-  Foi meu primeiro projeto com essa abordagem.
+  Sistema de gestão de tarefas com microsserviços (NestJS), RabbitMQ, WebSocket e monorepo (Turborepo).  
+  Meu primeiro projeto com essa arquitetura.
 
 ---
 
 ### Contato
-
 - LinkedIn → [Eduardo Souza](https://www.linkedin.com/in/eduardo-souza432)  
-- WhatsApp → [+55 16 99772-4259](https://wa.me/5516997724259)  
-
-Aberto a oportunidades e conversas sobre desenvolvimento backend e arquitetura de software.
+- WhatsApp → [+55 16 99772-4259](https://wa.me/5516997724259)
