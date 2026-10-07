@@ -32,7 +32,7 @@ Atualmente desenvolvo dois produtos próprios (SaaS).
 - **[Doc Flow](https://github.com/Eduardoss45/doc-flow)**  
   Sistema de processamento e conversão assíncrona de documentos.  
   Arquitetura modular com filas, workers e notificações em tempo real.  
-  (Backend em Python/Flask + workers)
+  Backend em Python/Flask.
 
 - **[LinkSwift](https://github.com/Eduardoss45/linkswift)**  
   Plataforma de encurtamento de links com controle de acesso, segurança e métricas.  
